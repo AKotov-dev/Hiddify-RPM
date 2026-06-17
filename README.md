@@ -2,7 +2,7 @@
 RPM package of [Hiddify Client](https://github.com/hiddify/hiddify-app), repackaged from the original [Debian package](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1).
 ![](https://github.com/AKotov-dev/Hiddify-RPM/blob/main/Screenshot1.png)
 
-### Build Motivation
+## Motivation
 RPM package is missing, AppImage does not start with error:
 ```
 ./Hiddify-Linux-x64-AppImage.AppImage
