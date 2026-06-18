@@ -48,8 +48,7 @@ deb=0
 2=/usr/share/icons/hicolor/128x128/apps/hiddify.png
 3=/usr/share/icons/hicolor/256x256/apps/hiddify.png
 4=/usr/share/metainfo/hiddify.appdata.xml
-5=/usr/share/doc/Hyddify-Mageia-x64/
-6=/usr/share/doc/hiddify/
+5=/usr/share/doc/hiddify/
 
 [AFTERINSTALL]
 0=#!/bin/bash
