@@ -7,6 +7,8 @@ RPM package of [Hiddify Client](https://github.com/hiddify/hiddify-app), repacka
 
 **12334** - Local mixed port (SOCKS5 / HTTP)
 
+**Modes:** Proxy, System Proxy, VPN and Protection via WARP
+
 ![](https://github.com/AKotov-dev/Hiddify-RPM/blob/main/Screenshot1.png)
 
 ## Motivation
