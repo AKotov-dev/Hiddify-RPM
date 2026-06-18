@@ -5,7 +5,7 @@ RPM package of [Hiddify Client](https://github.com/hiddify/hiddify-app), repacka
 + ~/.local/share/app.hiddify.com
 + ~/.local/share/icons/hicolor/{128x128,256x256}/apps
 
-**12334** - Local Mixed port (SOCKS5 / HTTP)
+**12334** - Local mixed port (SOCKS5 / HTTP)
 
 ![](https://github.com/AKotov-dev/Hiddify-RPM/blob/main/Screenshot1.png)
 
