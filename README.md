@@ -1,9 +1,9 @@
 # Hiddify-RPM
 RPM package of [Hiddify Client](https://github.com/hiddify/hiddify-app), repackaged from the original [Debian package](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1).
-
-**Working directories:**
-+ ~/.local/share/app.hiddify.com
-+ ~/.local/share/icons/hicolor/{128x128,256x256}/apps
+ 
++ configurations: ~/.local/share/app.hiddify.com
++ autostart mode: ~/.config/autostart/hiddify.desktop 
++ icons: ~/.local/share/icons/hicolor/{128x128,256x256}/apps/hiddify.png
 
 **12334** - Local mixed port (SOCKS5 / HTTP)
 
