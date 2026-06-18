@@ -1,5 +1,10 @@
 # Hiddify-RPM
 RPM package of [Hiddify Client](https://github.com/hiddify/hiddify-app), repackaged from the original [Debian package](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1).
+
+**Working directories:**
++ ~/.local/share/app.hiddify.com
++ ~/.local/share/icons/hicolor/{128x128,256x256}/apps
+
 ![](https://github.com/AKotov-dev/Hiddify-RPM/blob/main/Screenshot1.png)
 
 ## Motivation
