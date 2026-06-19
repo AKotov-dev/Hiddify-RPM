@@ -20,4 +20,4 @@ RPM package is missing, AppImage does not start with error:
 ```
 Build and scripts adaptation were carried out using [RPMCreator-v2.9](https://github.com/AKotov-dev/RPMCreator/releases/tag/v2.9), the project is [here](https://github.com/AKotov-dev/Hiddify-RPM/blob/main/hiddify.prj).  
   
-The fixed `Hiddify.AppImage` can be [downloaded here](https://drive.google.com/drive/folders/1WknnAW4LA2ilkzZmgZFTv4tnVhqwrP_5?usp=drive_link).
+The fixed `Hiddify.AppImage` can be [downloaded here](https://drive.google.com/drive/folders/1WknnAW4LA2ilkzZmgZFTv4tnVhqwrP_5?usp=sharing).
