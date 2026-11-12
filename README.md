@@ -1,5 +1,5 @@
 # Hiddify-RPM
-RPM package of [Hiddify Client](https://github.com/hiddify/hiddify-app), repackaged from the original [Debian package](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1).
+RPM packages of [Hiddify Client](https://github.com/hiddify/hiddify-app), repackaged from the original Debian packages.
  
 **User space:**
 + configurations: ~/.local/share/app.hiddify.com
@@ -8,16 +8,14 @@ RPM package of [Hiddify Client](https://github.com/hiddify/hiddify-app), repacka
 
 **12334** - Local mixed port (SOCKS5 / HTTP)
 
-**Modes:** Proxy, System Proxy, VPN and Protection via WARP
+**Modes:** Proxy, System Proxy, VPN, Router (network-wide), and additional protection via WARP / Psiphon.
 
 ![](https://github.com/AKotov-dev/Hiddify-RPM/blob/main/Screenshot1.png)
 
 ## Motivation for building a package
-RPM package is missing, AppImage does not start with error:
+No RPM package is available, and the AppImage fails to start with the following error:
 ```
 ./Hiddify-Linux-x64-AppImage.AppImage
 ./hiddify: usr/lib/libcrypto.so.3: version `OPENSSL_3.2.0' not found (required by /lib64/libcryptsetup.so.12)
 ```
-Build and scripts adaptation were carried out using [RPMCreator-v2.9](https://github.com/AKotov-dev/RPMCreator/releases/tag/v2.9), the project is [here](https://github.com/AKotov-dev/Hiddify-RPM/blob/main/hiddify.prj).  
-  
-Additionally, the fixed `Hiddify.AppImage` can be [downloaded here](https://drive.google.com/drive/folders/1WknnAW4LA2ilkzZmgZFTv4tnVhqwrP_5?usp=sharing).
+To automatically fix an AppImage, use [Hiddify.AppImage-Fix.tar.gz](https://github.com/AKotov-dev/Hiddify-RPM/raw/refs/heads/main/Hiddify.AppImage-Fix.tar.gz) and specify the Hiddify version number in the `fix.sh` script.
