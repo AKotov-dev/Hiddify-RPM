@@ -1,4 +1,4 @@
-# Hiddify-RPM
+# Hiddify-RPM (Mageia / Fedora)
 RPM packages of [Hiddify Client](https://github.com/hiddify/hiddify-app), repackaged from the original Debian packages.
  
 **User Data and Configuration:**
