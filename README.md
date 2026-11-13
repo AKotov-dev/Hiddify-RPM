@@ -1,5 +1,7 @@
 # Hiddify-RPM (Mageia / Fedora)
 RPM packages of [Hiddify Client](https://github.com/hiddify/hiddify-app), repackaged from the original Debian packages.
+
+**Dependencies:** libGLESv2.so.2()(64bit), libayatana-appindicator3.so.1()(64bit)
  
 **User Data and Configuration:**
 + configurations: ~/.local/share/app.hiddify.com
